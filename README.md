@@ -1,5 +1,9 @@
 # Proyecto CRUD en **Python,** **SQLite** y **Tkinter**
 ![Static Badge](https://img.shields.io/badge/Python-12-red?logo=Python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Tkinter-GUI-red?logo=python&logoColor=white)  
+![Static Badge](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)  
+![Static Badge](https://img.shields.io/badge/SQLite-Database-lightgrey?logo=sqlite&logoColor=white)  
+![Static Badge](https://img.shields.io/badge/Pandas-Dataframe-orange?logo=pandas&logoColor=white)  
 
 
 ## índice
@@ -37,7 +41,7 @@ Además, la interfaz gráfica ha sido diseñada para ser clara y funcional, adec
 
 Para clonar este proyecto, puedes utilizar Git. Asegúrate de tener Git instalado en tu sistema. Luego, puedes clonar el repositorio ejecutando el siguiente comando en tu terminal:
 
-Copiar código: **git clone <[URL del repositorio](https://github.com/lppz16/Calculadora-html-css.git)>**
+Copiar código: **git clone <[URL del repositorio](https://github.com/lppz16/CRUD.git))>**
 
 ## Instalación
 Sigue estos pasos para ejecutar el proyecto en tu entorno local:
