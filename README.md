@@ -97,9 +97,19 @@ Tkinter se utiliza para construir una interfaz con cuadros de texto, botones, y 
 
 ## Captura del proyecto:
 
-![Página principal](Img/Captura de pantalla 2024-11-24 101954.png)
-
 ![](https://github.com/lppz16/Calculadora-html-css/blob/main/Img/Captura%20de%20pantalla%202024-10-05%20233303.png?raw=true)
+
+![](https://github.com/lppz16/CRUD/blob/1d7cea23a1372be8ebe5bfe6a0fc007b31c60c6c/Img/Captura%20de%20pantalla%202024-11-24%20101954.png)
+
+![](https://github.com/lppz16/CRUD/blob/1d7cea23a1372be8ebe5bfe6a0fc007b31c60c6c/Img/Captura%20de%20pantalla%202024-11-24%20102010.png)
+
+![](https://github.com/lppz16/CRUD/blob/1d7cea23a1372be8ebe5bfe6a0fc007b31c60c6c/Img/Captura%20de%20pantalla%202024-11-24%20102025.png)
+
+![](https://github.com/lppz16/CRUD/blob/1d7cea23a1372be8ebe5bfe6a0fc007b31c60c6c/Img/Captura%20de%20pantalla%202024-11-24%20102047.png)
+
+![](https://github.com/lppz16/CRUD/blob/1d7cea23a1372be8ebe5bfe6a0fc007b31c60c6c/Img/Captura%20de%20pantalla%202024-11-24%20102115.png)
+
+![](https://github.com/lppz16/CRUD/blob/1d7cea23a1372be8ebe5bfe6a0fc007b31c60c6c/Img/Captura%20de%20pantalla%202024-11-24%20102132.png)
 
 ## Autor
 
