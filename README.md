@@ -97,7 +97,7 @@ Tkinter se utiliza para construir una interfaz con cuadros de texto, botones, y 
 
 ## Captura del proyecto:
 
-![Página principal](https://github.com/lppz16/Calculadora-html-css/blob/main/Img/Captura%20de%20pantalla%202024-10-05%20233251.png?raw=true)
+![Página principal](Img/Captura de pantalla 2024-11-24 101954.png)
 
 ![](https://github.com/lppz16/Calculadora-html-css/blob/main/Img/Captura%20de%20pantalla%202024-10-05%20233303.png?raw=true)
 
