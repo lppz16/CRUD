@@ -27,8 +27,11 @@
 Este proyecto es una aplicación CRUD (Crear, Leer, Actualizar, Eliminar) interactiva que permite gestionar una lista de usuarios con información como nombre, correo electrónico, número de teléfono y contraseña. Desarrollado con Python y Tkinter, la interfaz es fácil de usar y cuenta con las siguientes características:
 
 -Validación de campos.
+
 -Mantenimiento de una tabla de usuarios dinámica.
+
 -Funciones de edición y eliminación.
+
 -Manejo de errores con mensajes personalizados.
 
 Además, la interfaz gráfica ha sido diseñada para ser clara y funcional, adecuada tanto para principiantes como para usuarios avanzados..
@@ -59,15 +62,20 @@ python main.py
 Este proyecto fue desarrollado con las siguientes herramientas:
 
 **Python 3.10:** Lenguaje de programación principal.
+
 **Tkinter:** Biblioteca para crear interfaces gráficas.
+
 **Pandas:** Para el manejo de datos en caso de integrarlo en futuras versiones.
 
 ## Uso
 Para utilizar la aplicación, sigue estos pasos:
 
 **Añadir usuario:** Rellena los campos y presiona el botón Añadir para agregar un nuevo usuario a la tabla.
+
 **Editar usuario:** Selecciona un usuario de la tabla, modifica los datos y haz clic en Actualizar.
+
 **Eliminar usuario:** Selecciona un usuario y presiona el botón Eliminar.
+
 **Borrar campos:** Usa el botón Limpiar para reiniciar el formulario.
 
 ## Estructura del código:
@@ -77,8 +85,11 @@ La estructura del proyecto se organiza de la siguiente manera:
 
 **2. Funciones del CRUD:**
 **add_user:** Agrega un usuario a la tabla.
+
 **update_user:** Actualiza los datos de un usuario existente.
+
 **delete_user:** Elimina un usuario seleccionado.
+
 **clear_entries:** Limpia los campos del formulario.
 
 **3. Interfaz gráfica:**
